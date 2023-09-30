@@ -22,3 +22,9 @@ Welcome to the College Course List Landing Page project! This simple web applica
    ```bash
    git clone https://github.com/bhuvaneshwaar-2002/Product-Landing-Page.git
 
+## Screenshots
+
+![Header](preview/header.PNG)
+![Main Page](preview/Main.PNG)
+![Courses](preview/Courses.PNG)
+![Footer](preview/Footer.PNG)
